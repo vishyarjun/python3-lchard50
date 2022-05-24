@@ -13,4 +13,4 @@ Collection of my 50 favourite Leetcode Hard Problems and Python3 Solutions to it
 | [Longest Valid Paranthesis]([https://leetcode.com/problems/encode-and-decode-strings/](https://github.com/vishyarjun/python3-lchard50/blob/main/longest_valid_paranthesis.py) |
 
 
-[Developed with <3 by | Arjun](https://vishyarjun.github.io)
+[Developed without ❤️ by | Arjun](https://vishyarjun.github.io)
